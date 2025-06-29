@@ -2,6 +2,8 @@
 
 A modern, responsive React application built with Vite, Tailwind CSS, and React Router. This application demonstrates component architecture, state management, hooks usage, and API integration.
 
+access using https://task-mgt-react.netlify.app/
+
 ## 🚀 Features
 
 - **Task Management**: Create, manage, and track tasks with local storage persistence
@@ -23,7 +25,7 @@ A modern, responsive React application built with Vite, Tailwind CSS, and React 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-musyoka-exe.git
 cd react-task-manager
 ```
 
